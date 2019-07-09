@@ -1,0 +1,19 @@
+C:\Users\czechb\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\czechb\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\czechb\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\czechb\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\czechb\source\repos\WpfApp1\WpfApp1\obj\Debug\ECL StruxureWareAdapter.csproj.GenerateResource.cache
+C:\Users\czechb\source\repos\WpfApp1\WpfApp1\obj\Debug\ECL StruxureWareAdapter.csproj.CoreCompileInputs.cache
+C:\Users\czechb\source\repos\WpfApp1\WpfApp1\bin\Debug\MPEC ECL Interpreter.exe.config
+C:\Users\czechb\source\repos\WpfApp1\WpfApp1\bin\Debug\MPEC ECL Interpreter.exe.manifest
+C:\Users\czechb\source\repos\WpfApp1\WpfApp1\bin\Debug\MPEC ECL Interpreter.application
+C:\Users\czechb\source\repos\WpfApp1\WpfApp1\bin\Debug\MPEC ECL Interpreter.exe
+C:\Users\czechb\source\repos\WpfApp1\WpfApp1\bin\Debug\MPEC ECL Interpreter.pdb
+C:\Users\czechb\source\repos\WpfApp1\WpfApp1\obj\Debug\ECL StruxureWareAdapter.csprojAssemblyReference.cache
+C:\Users\czechb\source\repos\WpfApp1\WpfApp1\obj\Debug\MPEC ECL Interpreter_MarkupCompile.cache
+C:\Users\czechb\source\repos\WpfApp1\WpfApp1\obj\Debug\MPEC ECL Interpreter_MarkupCompile.lref
+C:\Users\czechb\source\repos\WpfApp1\WpfApp1\obj\Debug\MPEC ECL Interpreter.g.resources
+C:\Users\czechb\source\repos\WpfApp1\WpfApp1\obj\Debug\MPEC ECL Interpreter.exe.manifest
+C:\Users\czechb\source\repos\WpfApp1\WpfApp1\obj\Debug\MPEC ECL Interpreter.application
+C:\Users\czechb\source\repos\WpfApp1\WpfApp1\obj\Debug\MPEC ECL Interpreter.exe
+C:\Users\czechb\source\repos\WpfApp1\WpfApp1\obj\Debug\MPEC ECL Interpreter.pdb
